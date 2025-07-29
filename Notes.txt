@@ -1,1 +1,11 @@
-#Hello this is my notes area.
+Hello this is my notes area.
+------------------------------------------------------------------------------------------
+    Join Function
+        -Example
+         a = ['Hello', 'world', 'from', 'Python']
+         res = ' '.join(a)
+         print(res)
+         -Output
+         "Hello world from Python"
+------------------------------------------------------------------------------------------
+            
